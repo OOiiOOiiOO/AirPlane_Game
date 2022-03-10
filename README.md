@@ -3,3 +3,7 @@
 
 To run this game you need an Atari 2600 emulator
 I recommend stella among the simulators
+
+![alt text](https://github.com/OOiiOOiiOO/AirPlane_Game/blob/main/pics/2022-03-10_15-12.png?raw=true)
+![alt text](https://github.com/OOiiOOiiOO/AirPlane_Game/blob/main/pics/2022-03-10_15-14.png?raw=true)
+![alt text](https://github.com/OOiiOOiiOO/AirPlane_Game/blob/main/pics/2022-03-10_15-14-1.png?raw=true)
